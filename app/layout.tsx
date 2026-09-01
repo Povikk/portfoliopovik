@@ -12,13 +12,13 @@ export const metadata: Metadata = {
   description: 'Le portfolio de Jonathan “Povik” Ragot, futur testeur logiciel, vibecoder et chasseur de bugs curieux.',
   openGraph: {
     title: 'Povik | Futur QA Tester',
-    description: 'Je cherche les bugs avant qu’ils vous trouvent.',
+    description: 'Je trouve les bugs avant qu’ils ne vous trouvent.',
     images: ['/og.png'],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Povik | Futur QA Tester',
-    description: 'Je cherche les bugs avant qu’ils vous trouvent.',
+    description: 'Je trouve les bugs avant qu’ils ne vous trouvent.',
     images: ['/og.png'],
   },
 };

@@ -717,7 +717,7 @@ export default function Home() {
         {renderExtraCrumbs('hero')}
         <div className="hero-grid" aria-hidden="true" />
         <div className="eyebrow reveal-1"><span>VERSION 2026.08</span><i /> EN ROUTE VERS LA QA</div>
-        <h1 className="reveal-2 hero-title"><span>JE TROUVE</span><span className="outline-word bug-line">LES BUGS</span><span>AVANT QU’ILS</span><span>VOUS TROUVENT<span className="hot-dot">.</span></span></h1>
+        <h1 className="reveal-2 hero-title"><span>JE TROUVE</span><span className="outline-word bug-line">LES BUGS</span><span>AVANT QU’ILS</span><span>NE VOUS TROUVENT<span className="hot-dot">.</span></span></h1>
         <div className="hero-footer reveal-3">
           <div className="hero-intro"><span className="prompt">→</span><p><strong>Jonathan “Povik” Ragot</strong><br />Futur QA Tester, vibecoder curieux<br />et anomalie positive depuis 1989.</p></div>
           <div className="hero-cta"><a className="run-button" href="#about"><span>DÉCOUVRIR MON PARCOURS</span><ArrowDownRight /></a><a href="#projects" className="ghost-button">VOIR MES PROJETS <ArrowDownRight size={18} /></a></div>
