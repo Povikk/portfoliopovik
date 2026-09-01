@@ -705,7 +705,7 @@ export default function Home() {
       <div className="pointer-light" aria-hidden="true" />
       <div className="scroll-progress" aria-hidden="true" />
       <nav className="topbar">
-        <a href="#top" className="brand" aria-label="Accueil Povik.dev"><img className="brand-mark" src="/povik-logo-incline.png" alt="" /><span>POVIK<span className="brand-dot">.</span>DEV</span></a>
+        <a href="#top" className="brand" aria-label="Accueil Povik.dev"><img className="brand-mark" src="./povik-logo-incline.png" alt="" /><span>POVIK<span className="brand-dot">.</span>DEV</span></a>
         <div className={`nav-links ${menuOpen ? 'open' : ''}`}>
           <a href="#about" onClick={() => setMenuOpen(false)}><small>01</small><span>À PROPOS</span></a><a href="#projects" onClick={() => setMenuOpen(false)}><small>02</small><span>PROJETS</span></a><a href="#journey" onClick={() => setMenuOpen(false)}><small>03</small><span>PARCOURS</span></a><a href="#contact" onClick={() => setMenuOpen(false)}><small>04</small><span>CONTACT</span></a>
         </div>
