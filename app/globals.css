@@ -172,6 +172,8 @@ body:after{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;back
 .journey{background:linear-gradient(180deg,#111319,#181b22)}
 .journey .timeline-item p{color:#c0c3bb}
 .journey .timeline-item small{color:#a3a69f}
+.journey .timeline-item.future p{color:#292c23}
+.journey .timeline-item.future small{color:#3b402f}
 .section-heading>p{color:#c1c3bc}
 
 /* Focused pointer responses */
