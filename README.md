@@ -1,6 +1,8 @@
 # Portfolio Povik
 
-Portfolio interactif de **Jonathan Ragot**, également connu sous le pseudonyme **Povikk**.
+## Présentation du projet
+
+**Portfolio Povik** est le portfolio interactif de **Jonathan Ragot**, également connu sous le pseudonyme **Povikk**.
 
 Le site présente son profil, ses projets et son intérêt pour la qualité logicielle à travers une interface inspirée du développement et du test. Il sert à la fois de carte de visite en ligne et de terrain d'expérimentation : certaines parties se consultent comme un portfolio classique, tandis que d'autres proposent de rechercher des anomalies ou d'interagir avec les éléments de la page.
 
