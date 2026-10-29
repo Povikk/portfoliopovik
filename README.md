@@ -2,9 +2,11 @@
 
 ## Présentation du projet
 
-**Portfolio Povik** est le portfolio interactif de **Jonathan Ragot**, également connu sous le pseudonyme **Povikk**.
+Mon portfolio, un petit coin du web à mon image, voué à évoluer au fil de mes envies, de mes découvertes et de mes projets.
 
-Le site présente son profil, ses projets et son intérêt pour la qualité logicielle à travers une interface inspirée du développement et du test. Il sert à la fois de carte de visite en ligne et de terrain d'expérimentation : certaines parties se consultent comme un portfolio classique, tandis que d'autres proposent de rechercher des anomalies ou d'interagir avec les éléments de la page.
+J'y partage ce que je fais, ce que j'apprends et ce que j'aime expérimenter. C'est aussi un terrain de jeu où je teste des idées, parfois sérieuses, parfois un peu moins. Le site n'est pas figé, il évoluera avec moi, au gré de mes inspirations et de mes nouvelles compétences.
+
+Et puisque j'aime bien chercher la petite bête, quelques surprises et anomalies s'y cachent peut-être…
 
 ## Consulter le site
 
